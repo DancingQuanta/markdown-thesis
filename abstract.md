@@ -1,0 +1,3 @@
+
+abstract: 'Example abstract'
+
